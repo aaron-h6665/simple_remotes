@@ -7,11 +7,11 @@ You can make an unordered list by preceding one or more lines of text with -, *,
 - A
 - b
 - c
-- d
+- d\
 Ordered List:
 1. A
 2. B
-3. C
+3. C\
 Nested List:
 1. A
    - dawg
@@ -19,7 +19,7 @@ Nested List:
 Task list:
 - [ ] BOOM
 - [x] DONEEE
-- [ ] \(Optional Description) NEW
+- [ ] \(Optional Description) NEW\
 
 Image: 
 ![Random Screenshot.](https://myoctocat.com/assets/images/base-octocat.svg)
